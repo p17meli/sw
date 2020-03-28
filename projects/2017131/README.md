@@ -1,9 +1,9 @@
-## ΜΕΛΙΔΟΝΙΩΤΗΣ ΓΕΩΡΓΙΟΣ <br>
-## ΑΜ: Π2017131 <br>
+## ΜΕΛΙΔΟΝΙΩΤΗΣ ΓΕΩΡΓΙΟΣ 
+## ΑΜ: Π2017131 
 #
-#ΤΕΧΝΟΛΟΓΙΑ ΛΟΓΙΣΜΙΚΟΥ<br>
-#Συμμετοχικό Υλικό<br>
-#Link αποθετηρίου:https://github.com/p17meli/gr <br>
-#link αρχείων που πρόσθεσα:<br>
-#Google lens:https://github.com/p17meli/gr/blob/master/_gallery/google-lens.md<br>
-#Twitch:https://github.com/p17meli/gr/blob/master/_gallery/twitch.md
+# ΤΕΧΝΟΛΟΓΙΑ ΛΟΓΙΣΜΙΚΟΥ
+# Συμμετοχικό Υλικό
+# Link αποθετηρίου:https://github.com/p17meli/gr 
+# link αρχείων που πρόσθεσα:
+# Google lens:https://github.com/p17meli/gr/blob/master/_gallery/google-lens.md
+# Twitch:https://github.com/p17meli/gr/blob/master/_gallery/twitch.md
